@@ -3,5 +3,5 @@ Mini-batch gradient descent is a widely used algorithm to train classifiers. The
 
 # Repo Heirarchy
 
-- **Report** - Summarizes all the experiments and performance metrics of various sampling techniques.
-- **Code** - Yet to be added
+- **report.pdf** - Summarizes all the experiments and performance metrics of various sampling techniques.
+- **code** - Yet to be added
